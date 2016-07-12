@@ -1,0 +1,16 @@
+PM_failure	smoking	age	gender	IQ	depression	self_PM
+35	smoker	45	male	95	21	26
+26	smoker	18	male	105	13	29
+40	smoker	56	female	112	7	34
+25	smoker	26	female	100	17	14
+29	smoker	50	female	99	16	26
+20	ex-smoker	23	male	101	15	16
+13	ex-smoker	29	male	120	5	14
+28	ex-smoker	35	female	96	20	12
+29	ex-smoker	39	female	100	16	30
+33	ex-smoker	20	female	90	20	20
+19	non-smoker	26	male	110	8	21
+14	non-smoker	29	male	115	6	15
+10	non-smoker	20	female	103	14	9
+13	non-smoker	35	female	126	4	10
+20	non-smoker	41	female	92	20	19
